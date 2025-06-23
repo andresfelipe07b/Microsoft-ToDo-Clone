@@ -308,7 +308,7 @@ header h1 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
+    position: absolute;
     left: 18px;
     top: 18px;
     z-index: 40;
