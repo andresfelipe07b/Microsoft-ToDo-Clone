@@ -2,6 +2,10 @@
 
 Una aplicación web moderna para organizar tareas con interfaz similar a Microsoft ToDo, construida con JavaScript vanilla y módulos ES6.
 
+## 📘 English version
+[Click here to see English version](README.en.md)
+
+
 ## 🚀 Características
 
 - ✅ Gestión de tareas por listas/categorías
